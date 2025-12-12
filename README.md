@@ -20,3 +20,14 @@ Think of this as preparing a meal - we need to gather and prep all our ingredien
 Today, we will deal with simple cases, when documents are not large.
 
 Tomorrow we will deal with more complex cases when documents are big and we also have code.
+
+### Environment Setup
+First, let's prepare the environment. We need Python 3.10 or higher.
+
+We will use `uv` as the package manager. If you don't have `uv`, let's install it:
+
+```
+Shell
+pip install uv
+```
+
