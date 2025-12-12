@@ -1,5 +1,7 @@
 # 7-Day AI Agents Crash-Course
 
+## Day 1: Ingest and Index Your Data
+
 In this course, we're building intelligent systems that can understand and interact with data.
 
 We'll create a conversational agent that can answer questions about any GitHub repository - think of it as a personal AI assistant for documentation and code. If you know DeepWiki, it's something similar, but tailored to your GitHub repo.
