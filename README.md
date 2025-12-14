@@ -33,4 +33,4 @@ Today, you’ll explore 3 different chunking methods:
 
 Remember to start simple. Use advanced methods only if your documents are complex or the results are poor.
 
-Lesson: 
+Lesson: [2-chunking-intelligent-processing-data.md](https://github.com/scalamiguel/ai-agents-crash-course/blob/main/2-chunking-intelligent-processing-data.md)
