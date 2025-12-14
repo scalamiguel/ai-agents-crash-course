@@ -8,4 +8,4 @@ We will download the data as a zip archive, process all the text data from there
 
 Today, we will address simple cases where documents are not large.
 
-Lesson: https://github.com/scalamiguel/ai-agents-crash-course/blob/main/1-ingest-index-data.md
+Lesson: [1-ingest-index-data.md](https://github.com/scalamiguel/ai-agents-crash-course/blob/main/1-ingest-index-data.md)
