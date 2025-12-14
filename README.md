@@ -32,3 +32,5 @@ Today, you’ll explore 3 different chunking methods:
 3. LLM-powered chunking: intelligent, semantic splits (requires OpenAI or Groq account)
 
 Remember to start simple. Use advanced methods only if your documents are complex or the results are poor.
+
+Lesson: 
